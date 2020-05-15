@@ -1,0 +1,96 @@
+.container-fluid{
+  background-color: grey;
+  color: white;
+  text-align: center;
+  margin: 10px;
+}
+.container-1 {
+  background-color: #f3f3f3;
+  margin: 10px;
+
+}
+
+.row{
+  column-count: 3
+}
+.container-2{
+  background-color: grey;
+  margin: 10px;
+}
+.finance{
+  ;
+}
+.jumbotron{
+  background-color: white;
+  text-align: center;
+  border: 1px solid black;
+  margin: 10px;
+}
+.btn-primary .btn-lg{
+  text-decoration: none;
+}
+.budget-title{
+  text-align: center;
+  border: 1px solid black;
+  margin: 10px;
+}
+.transporttion{
+  flex-direction: row;
+
+}
+.galery{
+  width: 30;
+  height: 30px;
+  margin: 20px;
+}
+
+/*section gauche de la page contact*/
+.Contact-left{
+  float: left;
+  background-color:  #ded8da ;
+  color: grey;
+  width: 30%;
+  height: 500px;
+  text-align: center;
+}
+#Contact-right-top{
+  text-align: center;
+  font-weight: bold;
+  float: left;
+  margin: 30px;
+}
+#Contact-right-bottom{
+  text-align: center;
+  font-weight: bold;
+  float: right;
+  margin: 30px;
+}
+form{
+  margin: 30px;
+  margin-left: 40px;
+}
+.contact-right{
+  display: inline-block;
+  color: grey;
+  font-weight: bold;
+  margin: 40px;
+
+}
+#Contact-right-bottom iframe{
+  margin: 20px;
+}
+.Contact-bottom{
+  width: 100%;
+  text-align: center;
+  color: grey;
+  font-weight: bold;
+  column-count: 2;
+  column-gap: 10px;
+  column-rule: 1px solid grey;
+  margin: 40px;
+}
+.Product-bottom-tittle{
+  color: grey;
+  text-align: center;
+  font-weight: bold;
+}
